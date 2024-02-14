@@ -7,7 +7,7 @@ class App extends Component {
     person: {
       fullName: "Balogun Babatunde",
       
-      //Little expression of who Adegbite Muiz is.
+      //Little expression of who Babatunde is.
       bio: "Babatunde is a young, vibrant, intellectual and passionate web developer who's striving to make wave in the digital world, He likes taking on new challenges and meeting people, His journey as a web developer is marked by his passion to take on new challenges, dedication and relentless curiosity.",
       imgSrc: "./images/AA0F9AB0-9294-4DA2-A058-E2858478BD66.JPG",
       profession: "Fullstack Developer",
